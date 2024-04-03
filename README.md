@@ -16,7 +16,7 @@
 <div id="body" align="left">
   - 👋 Hi, I am Daniel Chirinda <br>
   - 👨🏾‍💻 I am a Tech Lead | Software Developer | Software Engineer <br>
-  - 👨🏾‍💼 I have been writing codes for more than 5years. <br>
+  - 👨🏾‍💼 I have been writing codes for more than 6 years. <br>
   - 📫 Reach me via email :  <a href="mailto:chirindzadaniel@gmail.com">Mail</a>
 .
 </div>
