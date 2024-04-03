@@ -79,7 +79,7 @@ sass jquery
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danielchirinda&theme=dark)](https://git.io/streak-stats)
 <br>
-![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford&theme=dark&show_icons=true)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford&theme=dark&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 🥂 Cheers!
