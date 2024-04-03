@@ -14,7 +14,7 @@
 ---
 ### 👨‍💻 About Me
 <div id="body" align="left">
-  - 👋 Hi, I am Daniel Chirinda <br>
+  - 👋 Hi, I am <b>Daniel Chirinda</b> <br>
   - 👨🏾‍💻 I am a Tech Lead | Software Developer | Software Engineer <br>
   - 👨🏾‍💼 I have been writing codes for more than 6 years. <br>
   - 📫 Reach me via email :  <a href="mailto:chirindzadaniel@gmail.com">Mail</a>
