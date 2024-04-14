@@ -60,7 +60,7 @@ sass jquery
 ### 🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,django,aws,graphql,reactnative" />
+    <img src="https://skillicons.dev/icons?i=go,aws,graphql,reactnative" />
   </a>
 </p>
 <!-- <div>
